@@ -2,7 +2,7 @@ Sonic
 =====
 ## 简介
 [Sonic](https://github.com/linyehui/sonic) 是一个跨平台的声波传输库（iOS & Android)，技术上类似于[chirp](http://chirp.io/)和[蛐蛐儿](http://www.xququ.com/index_cn.html)，但声波识别率上和他们还有很大的差距。
-
+[![Run on Repl.it](https://repl.it/badge/github/UzayAnil/sonic-2)](https://repl.it/github/UzayAnil/sonic-2)
 声波生成和识别的代码源自[WaveTrans](https://github.com/CloudSide/WaveTrans)，linyehui 对源代码进行了精简，将声波编解码部分的代码进行了独立封装，并做了跨平台移植，从而得到了这个更简练的声波传输库：[Sonic](https://github.com/linyehui/sonic)。
 
 ## 关于声波识别率和存在的问题
